@@ -2,7 +2,7 @@
 
 https://www.aclweb.org/anthology/S17-2089/
 
-Author - Oleksii Sliusarenko. The solution is implemented in python notebook - *solution.ipynb*. You can see explanations, comments and results there. Note that some files used here are available for research purposes only, for example MaxDiff Twitter Sentiment Lexicon from this resource: <https://www.svkir.com/resources.html#manual_lexicons_BWS>.
+Author - Oleksii Sliusarenko. The solution is implemented in python notebook - (solution.ipynb)[solution.ipynb]. You can see explanations, comments and results there. Note that some files used here are available for research purposes only, for example MaxDiff Twitter Sentiment Lexicon from this resource: <https://www.svkir.com/resources.html#manual_lexicons_BWS>.
 
 ## Installation
 
