@@ -4,7 +4,7 @@ matplotlib==3.1.1
 nltk==3.4.5
 scikit-learn==0.21.3
 gensim==3.8.1
-tensorflow==1.15.0
+tensorflow==2.5.0
 Keras==2.3.1
 tqdm==4.36.1
 gdown==3.8.3
